@@ -22,5 +22,5 @@ What we use to develop the project
 * Github
 
 # Demo
-* Frontend - [demo](https://simple-toolchain-20200926163324559.eu-gb.mybluemix.net/#/welcome)
+* Frontend - [demo](http://simple-toolchain-20200926171636942.eu-gb.mybluemix.net/#/welcome)
 * backend - [demo](https://alwaslbeirutuos.eu-gb.mybluemix.net/getUsers)
